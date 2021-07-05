@@ -38,3 +38,9 @@ address{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+.card-header>h3>.collapse:hover{
+    cursor:pointer;
+}
+.card-header>h3>.collapsed:hover{
+    cursor:pointer;
+}
